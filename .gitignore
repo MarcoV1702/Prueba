@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Otros
+*.db
+*.DS_Store
+*.vssscc
+*.vsscc
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+.~
+
+# Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
